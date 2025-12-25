@@ -5,8 +5,8 @@
 // @match          https://www.amazon.com/*
 // @match          https://www.amazon.*/*
 // @run-at         document-start
-// @updateURL      https://github.com/canonical/browser-scripts-misc/raw/master/salesforce-lightning-tweaks.user.js
-// @downloadURL    https://github.com/canonical/browser-scripts-misc/raw/master/salesforce-lightning-tweaks.user.js
+// @updateURL      https://github.com/desrod/disable-amazon-rufus-userscript/edit/main/block-amazon-rufus.js
+// @downloadURL    https://github.com/desrod/disable-amazon-rufus-userscript/edit/main/block-amazon-rufus.js
 // @version        25.12.25.1
 // @grant          none
 // ==/UserScript==
