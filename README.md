@@ -1,4 +1,4 @@
-# Kill Amazon Rufus (Violentmonkey Userscript)
+# Kill Amazon Rufus Annoying Website AI
 
 A minimal, resilient browser userscript that **removes Amazon’s “Rufus” AI shopping assistant** and **reclaims the wasted screen space** it leaves behind.
 
